@@ -1,0 +1,12 @@
+data/raw/
+data/processed/
+*.zip
+*.tif
+*.aux.xml
+*.cpg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.qmd
+.ipynb_checkpoints/
