@@ -29,6 +29,7 @@ rprojecting them to EPSG:32737'
 The raster layers used in this project include DEM,rainfall,LULC,soil depth and other suitability criteria.
 The proccesed raster layers will be used to derive slope,create suitability classes and support the weighted overlay analysis for road water harvesting selection.
 
+
 ## Current Progress
 -Repository created
 -Kenya count adminstrative boundaries created
