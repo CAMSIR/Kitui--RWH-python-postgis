@@ -30,9 +30,18 @@ The raster layers used in this project include DEM,rainfall,LULC,soil depth and 
 The proccesed raster layers will be used to derive slope,create suitability classes and support the weighted overlay analysis for road water harvesting selection.
 
 
-## Current Progress
--Repository created
--Kenya count adminstrative boundaries created
--Kitui boundary extracted
--Road data processing ongoing
--soil data clippedto Kitui county
+##  Outputs
+
+The project has produced a final road water harvesting suitability raster for Kitui County using an AHP-based weighted overlay approach. The final suitability map combines rainfall, slope, land cover, soil depth, soil type, distance to roads, and distance to agricultural areas.
+
+The final suitability classes are:
+
+| Class | Suitability |
+|---|---|
+| 1 | Not suitable |
+| 2 | Less suitable |
+| 3 | Moderately suitable |
+| 4 | Suitable |
+| 5 | Highly suitable |
+
+![Final Suitability Map](outputs/maps/kitui_rwh_final_suitability_map.png)
